@@ -1,4 +1,4 @@
-package com.careydevelopment.oauth2test;
+package com.careydevelopment.oauth2test.controller;
 
 import java.security.Principal;
 

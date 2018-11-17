@@ -1,4 +1,4 @@
-package com.careydevelopment.oauth2test;
+package com.careydevelopment.oauth2test.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
